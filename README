@@ -1,0 +1,5 @@
+Little C++ SQLite wrapper.
+Author: Will Timoney
+http://wrmsr.com
+
+SQLiteDB is a creatively named minimal C++ wrapper for SQLite. All of the other ones I found were too big and carried too much baggage. This uses nothing but standard libs and hides nothing from you - you're free to get the connection and do whatever to it directly. I tend to prefer lowest common denom C conventions on generic things like this (for example taking a const char* instead of a std::string on execute) and as such there's very little hand holding. Feel free to improve however you want, it's public domain.
