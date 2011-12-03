@@ -1,4 +1,6 @@
-Little C++ SQLite wrapper.  Author: Will Timoney http://wrmsr.com
+Little C++ SQLite wrapper.
+Author: Will Timoney
+http://wrmsr.com
 
 SQLiteDB is a creatively named minimal C++ wrapper for SQLite. All of the other
 ones I found were too big and carried too much baggage. This uses nothing but
